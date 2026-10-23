@@ -5,7 +5,7 @@ Paste any URL and get an instant risk score with a detailed breakdown of suspici
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo 
 
 Run it locally in seconds (see [Quick Start](#quick-start) below).  
 Deploy to the cloud for free via [Streamlit Community Cloud](https://streamlit.io/cloud).
